@@ -1,0 +1,47 @@
+header {
+    background-color: #9b87b8;
+}
+
+header img {
+    float: left;
+    height: 85px;
+    padding-right: 10px;
+}
+
+header h1, header h2 {
+    margin: 0;
+    color: #fff;
+    font-weight: 300;
+    font-style: italic;
+}
+
+header h1 {
+    padding: .5rem 0 0 0;
+    font-size: 1.95rem;
+}
+
+header h2 {
+    padding: .2rem 0 0 0;
+    font-size: 1.05rem;
+}
+
+/*navbar*/
+.bg-light{
+    background-color: #23cfa7 !important;
+}
+
+
+footer {
+    background-color: #9b87b8;
+}
+
+main h1, main h5 {
+    color: #9b87b8;
+    font-family: lato, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.card{
+    border: none !important;
+}
